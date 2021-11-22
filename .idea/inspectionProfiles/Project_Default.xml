@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="42">
+            <item index="0" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="1" class="java.lang.String" itemvalue="protobuf" />
+            <item index="2" class="java.lang.String" itemvalue="decorator" />
+            <item index="3" class="java.lang.String" itemvalue="networkx" />
+            <item index="4" class="java.lang.String" itemvalue="pygame" />
+            <item index="5" class="java.lang.String" itemvalue="pywinpty" />
+            <item index="6" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="7" class="java.lang.String" itemvalue="googleapis-common-protos" />
+            <item index="8" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="9" class="java.lang.String" itemvalue="cloudpickle" />
+            <item index="10" class="java.lang.String" itemvalue="promise" />
+            <item index="11" class="java.lang.String" itemvalue="cirq" />
+            <item index="12" class="java.lang.String" itemvalue="numpy" />
+            <item index="13" class="java.lang.String" itemvalue="cirq-core" />
+            <item index="14" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="15" class="java.lang.String" itemvalue="PyWavelets" />
+            <item index="16" class="java.lang.String" itemvalue="certifi" />
+            <item index="17" class="java.lang.String" itemvalue="anyio" />
+            <item index="18" class="java.lang.String" itemvalue="wandb" />
+            <item index="19" class="java.lang.String" itemvalue="shortuuid" />
+            <item index="20" class="java.lang.String" itemvalue="cirq-google" />
+            <item index="21" class="java.lang.String" itemvalue="urllib3" />
+            <item index="22" class="java.lang.String" itemvalue="sympy" />
+            <item index="23" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="24" class="java.lang.String" itemvalue="pywin32" />
+            <item index="25" class="java.lang.String" itemvalue="subprocess32" />
+            <item index="26" class="java.lang.String" itemvalue="wincertstore" />
+            <item index="27" class="java.lang.String" itemvalue="tifffile" />
+            <item index="28" class="java.lang.String" itemvalue="click" />
+            <item index="29" class="java.lang.String" itemvalue="docker-pycreds" />
+            <item index="30" class="java.lang.String" itemvalue="psutil" />
+            <item index="31" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="32" class="java.lang.String" itemvalue="atari-py" />
+            <item index="33" class="java.lang.String" itemvalue="gym-maze-trustycoder83" />
+            <item index="34" class="java.lang.String" itemvalue="pathtools" />
+            <item index="35" class="java.lang.String" itemvalue="imageio" />
+            <item index="36" class="java.lang.String" itemvalue="colorama" />
+            <item index="37" class="java.lang.String" itemvalue="configparser" />
+            <item index="38" class="java.lang.String" itemvalue="mpmath" />
+            <item index="39" class="java.lang.String" itemvalue="grpcio" />
+            <item index="40" class="java.lang.String" itemvalue="gym" />
+            <item index="41" class="java.lang.String" itemvalue="hdf5" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
