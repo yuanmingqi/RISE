@@ -10,11 +10,11 @@
 If you find this repository is useful in your research, please cite the [[paper]](https://www.researchgate.net/publication/356407441):**
 
 ```
-@article{yuan2021renyi,
-  title={Rényi State Entropy for Accelerating Exploration in Reinforcement Learning},
-  author={M. Yuan and MO. Pun and D. Wang},
-  journal={preprint, researchgate.net:356407441},
-  year={2021}
+@article{yuan2022r,
+  title={R$\backslash$'enyi State Entropy for Exploration Acceleration in Reinforcement Learning},
+  author={Yuan, Mingqi and Pun, Man-on and Wang, Dong},
+  journal={arXiv preprint arXiv:2203.04297},
+  year={2022}
 }
 ```
 
